@@ -1,4 +1,4 @@
-# CMDTHEWORLD
+CMDTHEWORLD
 
 <!--
 **cmdtheworld/cmdtheworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,27 +21,29 @@ Hello! I'm an **aspiring cybersecurity professional** passionate about securing 
 
 ## Skills & Tools 🛠️
 ### Programming Languages:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python  
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) C  
-- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) Bash  
+- <img src="https://img.icons8.com/?size=25&id=13441&format=png&color=000000"/> Python
+- <img src="https://img.icons8.com/?size=25&id=45490&format=png&color=000000" alt="Wireshark icon"/> C
+- <img src="https://img.icons8.com/?size=25&id=19292&format=png&color=000000" alt="Wireshark icon"/> Bash
 
 ### Cybersecurity Tools:
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) Wireshark
-- ![Nmap](https://img.shields.io/badge/-Nmap-00467C?style=flat-square&logo=nmap&logoColor=white) Nmap
-- ![Metasploit](https://img.shields.io/badge/-Metasploit-3C3C3D?style=flat-square&logo=metasploit&logoColor=white) Metasploit
-- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FE7A16?style=flat-square&logo=burp-suite&logoColor=white) Burp Suite
+- <img src="https://img.icons8.com/?size=25&id=rOHcpTUtCTjr&format=png&color=000000" alt="Wireshark icon"/> Wireshark
+- <img src="https://img.icons8.com/?size=25&id=9b5wowKIlo9d&format=png&color=000000" alt="Nmap icon"/> Nmap
+- <img src="https://img.icons8.com/?size=25&id=PW0ChfedZvTh&format=png&color=000000"/> Metasploit
+- <img src="https://img.icons8.com/?size=25&id=41078&format=png&color=000000"/> Burp Suite
+
 
 ### Operating Systems:
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Linux (Ubuntu)
-- ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) Kali Linux
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) Windows
+- <img src="https://img.icons8.com/?size=25&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux icon"/> Kali Linux  
+- <img src="https://img.icons8.com/?size=25&id=M9BRw0RJZXKi&format=png&color=000000" alt="Windows Icon"/> Windows
+- <img src="https://img.icons8.com/?size=25&id=UjcGNVXknmz3&format=png&color=000000" alt="Kali Linux icon"/> Linux (Ubuntu)  
 
-### Other Skills:
+
+## Other Skills:
 - Cryptography, Vulnerability Assessment, Incident Response
 
 ## Current Projects 💻
 - **SecuringIoT:** Researching and building solutions to mitigate IoT vulnerabilities.
-- **CyberSecNotes:** A repository of notes and resources for cybersecurity topics.  
+- **CyberSecNotes:** A repository of notes and resources for cybersecurity topics.
 - **Capture The Flag (CTF):** Solving CTF challenges on platforms like Hack The Box and TryHackMe. 
 
 ## Education 🎓
@@ -53,9 +55,12 @@ Hello! I'm an **aspiring cybersecurity professional** passionate about securing 
 2. Achieve certifications like **CompTIA Security+**, **CEH**, or **OSCP**.
 3. Learn advanced **reverse engineering** techniques.
 
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdtheworld&show_icons=true&theme=gruvbox)
+
 ## Get In Touch 📬
-- **Email:** YOUGOTMAIL(mailto:myemail@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/cmdtheworld)  
-- **GitHub:** [Your GitHub Profile](https://github.com/cmdtheworld)  
+- **Email:** <a href="mailto:someone@example.com">YOUGOTMAIL</a>
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/cmdtheworld)
+- **GitHub:** [Your GitHub Profile](https://github.com/cmdtheworld)
 
 
