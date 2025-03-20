@@ -39,7 +39,7 @@ Hello! I'm an **aspiring cybersecurity professional** passionate about securing 
 
 
 ## Other Skills:
-- Cryptography, Vulnerability Assessment, Incident Response
+- Cryptography, Vulnerability Assessment, Incident Response, Windows Group Policy
 
 ## Current Projects 💻
 - **SecuringIoT:** Researching and building solutions to mitigate IoT vulnerabilities.
@@ -48,18 +48,18 @@ Hello! I'm an **aspiring cybersecurity professional** passionate about securing 
 
 ## Education 🎓
 - **Santa Rosa Junior College** – Pursuing (AS) in Cybersecurity
-- **Courses:** Network Security, Linux Administration, Cryptography, Computer Design, DEVOPS
+- **Courses:** Network Security, Linux Administration, Testout SecurityPro, Netlab Training Environment, Computer Design, DEVOPS
 
 ## Goals 📈
 1. Contribute to **open-source cybersecurity projects**.
-2. Achieve certifications like **CompTIA Security+**, **CEH**, or **OSCP**.
+2. Achieve certifications like **CompTIA Security+**, **CompTIA Network+**, **CEH**, **Secret Security Clearance**, or **OSCP**.
 3. Learn advanced **reverse engineering** techniques.
 
 ## GitHub Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmdtheworld&show_icons=true&theme=gruvbox)
 
 ## Get In Touch 📬
-- **Email:** <a href="mailto:someone@example.com">YOUGOTMAIL</a>
+- **Email:** <a href="mailto:davidclark600@gmail.com">YOUGOTMAIL</a>
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/cmdtheworld)
 - **GitHub:** [Your GitHub Profile](https://github.com/cmdtheworld)
 
