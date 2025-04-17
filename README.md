@@ -60,7 +60,7 @@ Hello! I'm an **aspiring cybersecurity professional** passionate about securing 
 
 ## Get In Touch 📬
 - **Email:** <a href="mailto:davidclark600@gmail.com">YOUGOTMAIL</a>
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/cmdtheworld)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/davidclark600)
 - **GitHub:** [Your GitHub Profile](https://github.com/cmdtheworld)
 
 
